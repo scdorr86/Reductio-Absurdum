@@ -92,7 +92,7 @@ DisplayMenu();
 void DisplayMenu()
 {
     string? choice = null;
-    while (choice != "6")
+    while (choice != "7")
     {
         Console.WriteLine(@"Please choose an option:
                                 1. Display All Products
@@ -100,9 +100,10 @@ void DisplayMenu()
                                 3. Add a new Product
                                 4. Update Product Properties
                                 5. Browse by Product Type
-                                6. Exit");
+                                6. Products less than 30 days old
+                                7. Exit");
         choice = Console.ReadLine();
-        if (choice == "6")
+        if (choice == "7")
         {
             Console.WriteLine("Thank you, come again!");
         }
@@ -125,6 +126,10 @@ void DisplayMenu()
         else if (choice == "5")
         {
             BrowseByType(products, productTypes);
+        }
+        else if (choice == "6")
+        {
+            ProductsUnder30(products, productTypes);
         }
     };
 
@@ -250,5 +255,17 @@ void BrowseByType(List<Product> products, List<ProductType> productTypes)
         {
             Console.WriteLine($"Product: {product.Name}");
         }
+    }
+}
+
+void ProductsUnder30(List<Product> products, List<ProductType> productTypes)
+{
+    Console.WriteLine("These are the Products currently 30 days old or less: ");
+
+    List<Product> productsUnder30 = products.Where(p => p.DaysOnShelf <= 30).ToList();
+
+    foreach (Product product in productsUnder30)
+    {
+        Console.WriteLine($"Product: {product.Name}");
     }
 }
