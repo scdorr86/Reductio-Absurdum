@@ -1,0 +1,15 @@
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\bin\Debug\net6.0\Reductio-Absurdum.exe
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\bin\Debug\net6.0\Reductio-Absurdum.deps.json
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\bin\Debug\net6.0\Reductio-Absurdum.runtimeconfig.json
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\bin\Debug\net6.0\Reductio-Absurdum.dll
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\bin\Debug\net6.0\Reductio-Absurdum.pdb
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\Reductio-Absurdum.csproj.AssemblyReference.cache
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\Reductio-Absurdum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\Reductio-Absurdum.AssemblyInfoInputs.cache
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\Reductio-Absurdum.AssemblyInfo.cs
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\Reductio-Absurdum.csproj.CoreCompileInputs.cache
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\Reductio-Absurdum.dll
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\refint\Reductio-Absurdum.dll
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\Reductio-Absurdum.pdb
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\Reductio-Absurdum.genruntimeconfig.cache
+C:\Users\dorrissc\workspace\csharp\Recutio-Absurdum\Recutio-Absurdum\obj\Debug\net6.0\ref\Reductio-Absurdum.dll

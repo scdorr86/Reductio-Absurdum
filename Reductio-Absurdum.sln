@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recutio-Absurdum", "Recutio-Absurdum\Recutio-Absurdum.csproj", "{525D67E6-5DF9-4046-A978-84FB6E943913}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reductio-Absurdum", "Recutio-Absurdum\Reductio-Absurdum.csproj", "{525D67E6-5DF9-4046-A978-84FB6E943913}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
